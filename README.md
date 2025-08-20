@@ -27,7 +27,7 @@ This project demonstrates **SwiftUI fundamentals** such as `List`, `NavigationSt
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
+
 
 ---
 
