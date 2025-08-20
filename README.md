@@ -40,4 +40,4 @@ This project demonstrates **SwiftUI fundamentals** such as `List`, `NavigationSt
 ---
 
 ## 🧑‍💻 Author
-Oliver – Senior iOS Engineer  
+Tharun Menon –  iOS Engineer  
